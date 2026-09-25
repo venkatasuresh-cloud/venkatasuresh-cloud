@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Venkata Suresh 👋
 
-<!--
-**venkatasuresh-cloud/venkatasuresh-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud / DevOps / Platform Engineer
 
-Here are some ideas to get you started:
+I work across AWS, Azure, Kubernetes and Infrastructure as Code, with a strong focus on building, operating, troubleshooting and improving production cloud platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes cloud infrastructure, Kubernetes platforms, Terraform, CI/CD, GitOps, cloud security, production troubleshooting and cloud cost optimization.
+
+## Core Areas
+
+- ☁️ AWS & Microsoft Azure
+- ☸️ Kubernetes, EKS, AKS & ECS
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD, GitOps, Jenkins & Azure DevOps
+- 🔐 IAM, OIDC, cloud security & networking
+- 📊 CloudWatch, Grafana & production monitoring
+- 💰 Cloud cost optimization & FinOps
+- 🛠️ Production troubleshooting & platform operations
+
+## Currently Strengthening
+
+- Python automation for CloudOps
+- GitHub Actions
+- Prometheus
+- Platform engineering practices
+- AI-assisted cloud operations
+
+## Portfolio
+
+🌐 https://venkata-suresh.vercel.app
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/venkata-suresh-b7619a245/
+- GitHub: https://github.com/venkatasuresh-cloud
+- Email: venkatasuresh.cloud@gmail.com
